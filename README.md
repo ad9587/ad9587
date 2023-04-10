@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad9587&label=Profile%20views&color=0e75b6&style=flat" alt="ad9587" /> </p>
 
 </p>
-<img align="right" alt="GIF" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width=550 />
+<img align="right" alt="GIF" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width=500 />
 
 - 🔭 I’m currently working on [Music Player](https://github.com/ad9587/Music-Player)
 
