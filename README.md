@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj Singh</h1>
-<h3 align="center">A passionate tech enthusiast from India</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Programming+Enthusiast;Always%20learning%20new%20things;WEEB+4+life&center=true&width=500&height=50"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad9587&label=Profile%20views&color=0e75b6&style=flat" alt="ad9587" /> </p>
 
 </p>
