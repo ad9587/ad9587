@@ -8,11 +8,11 @@
 </p>
 <img align="right" alt="GIF" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width=500 />
 
-- 🔭 I’m currently working on [Music Player](https://github.com/ad9587/Music-Player)
+- 🔭 I recently worked on [Tvflix-Movie-Recomendation](https://github.com/ad9587/Tvflix-Movie-Recommendation)
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- 👯 I’m looking forward to work on **Plagerism Tester**
+- 👯 I’m looking forward to working on **My personal Portfolio Website**
 
 - 📫 How to reach me **as9587@srmist.edu.in**
 <br><br>
